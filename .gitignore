@@ -1,4 +1,5 @@
 # Ignorar el archivo variable de entorno:
 .env
-mlruns
-mlartifacts
+mlruns/
+mlartifacts/
+data/
