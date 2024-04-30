@@ -1,4 +1,4 @@
-pandas
+pandas==1.5.3
 matplotlib
 scikit-learn
 numpy
@@ -6,12 +6,11 @@ sqlalchemy==1.4.48
 xlrd
 mysql.connector
 python-dotenv
-os
 pymysql
-sqlite3
 datetime
 meteostat
 statsmodels
 missingno
 requests
 mlflow==2.10.2
+cryptography==42.0.5
