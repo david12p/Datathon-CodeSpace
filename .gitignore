@@ -2,3 +2,4 @@
 .env
 mlruns/
 mlartifacts/
+data/
