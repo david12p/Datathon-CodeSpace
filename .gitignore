@@ -1,4 +1,6 @@
 .env
 mlruns/
 mlartifacts/
-data/
+data/*
+!data/model1_mlflow_production.PNG
+!data/mlflow_2.PNG
